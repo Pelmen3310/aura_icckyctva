@@ -1,0 +1,43 @@
+<title>Аура исскуства</title>
+    <body style="font-family:sans-serif;background:Wheat">
+        <header><a href="#predlog">Что мы предлагаем?</a> <a href="#by">Покупка билетов</a></header>
+        <main>
+        <h1 style="text-align:center;color:Orange">Театр "Аура исскуства"</h1>
+        <h2 style="text-align:center;color:Orange" id="predlog">Что мы предлагаем?</h2>
+        <p style="color:Brown">Мы абсолютно новый и технологический театр, который подойдёт
+        для детей и взрослых! У нас выступают как живые актёры, так и аниматронные персонажи</p>
+        <img src="https://cdn.pixabay.com/photo/2013/04/18/11/43/theater-105574_1280.jpg"width="600px"height="300px">
+        <img src="https://games.mail.ru/pre_1000x0_resize/hotbox/content_files/gallery/23/53/4371ce79.jpeg"width="600px"height="300px">
+        <h2 style="text-align:center;color:Orange" id="by">Покупка билетов</h2>
+        <table>
+            <tr>
+                <td style="color:Brown">Билет для взрослого</td>
+                <td style="color:Brown">1500р</td>
+            </tr>
+            <tr>
+                <td style="color:Brown">Билет для детей</td>
+                <td style="color:Brown">500р</td>
+            </tr>
+        </table>
+        <h1 style="color:Orange;text-align:center">Рассписание этой недели</h1>
+        <table>
+            <tr>
+                <td style="color:Brown">Понедельник</td>
+                <td style="color:Brown">Вторник</td>
+                <td style="color:Brown">Среда</td>
+                <td style="color:Brown">Четверг</td>
+                <td style="color:Brown">Пятница</td>
+            </tr>
+            <tr>
+                <td style="color:Brown">Красавица и чудовище(15:30-17:45)</td>
+                <td style="color:Brown">Щелкунчик(15:00)</td>
+                <td style="color:Brown">Лебединое озеро(15:00)</td>
+                <td style="color:Brown"></td>
+                <td style="color:Brown"></td>
+            </tr>
+        </table>
+        </main>
+        <br/>
+        <footer style="color:Brown">Адресс: Москва, Ул. Левина, 26 здание. <br/>Номер оператора: +79251225678
+        </footer>
+</body>
